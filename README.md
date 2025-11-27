@@ -59,7 +59,7 @@ Please refer to the [Design Guide](DESIGN_GUIDE.md) and download the [Template](
 
 ## 👐 Contribute
 
-If you want to contribute to this repository, please create a folder in `/cummunity` and put your image files in it. You are encouraged to create a accompanying `filmdata.json` file.
+If you want to contribute to this repository, please create a folder in `/cummunity` and put your image files in it. You are encouraged to create an accompanying `filmdata.json` file.
 
 ---
 
