@@ -1,0 +1,14 @@
+[
+    {
+        "brand": "Film Brand",
+        "family": "Film Family",
+        "series": "Film Series",
+        "iso": 50,
+        "class": "135",
+        "type": "Color Negative",
+        "process": "C-41",
+        "designer": "Designer Name",
+        "notes": "",
+        "file_name": "test_cover.png"
+    }
+]
